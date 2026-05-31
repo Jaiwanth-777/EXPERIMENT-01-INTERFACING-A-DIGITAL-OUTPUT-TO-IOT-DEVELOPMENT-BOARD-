@@ -161,9 +161,6 @@ void assert_failed(uint8_t *file, uint32_t line) {}
 ## OUTPUT  :
 
  <img width="1409" height="798" alt="image" src="https://github.com/user-attachments/assets/d5c7fff3-a693-48ef-8722-24263bd940a9" />
-
- ## Result :
- Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
  
  
 ## Result :
